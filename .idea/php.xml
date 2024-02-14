@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/aura/sqlquery" />
+      <path value="$PROJECT_DIR$/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/sql/vendor/pds/skeleton" />
+      <path value="$PROJECT_DIR$/sql/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/sql/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/sql/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/sql/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/sql/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/sql/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/sql/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/sql/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/sql/vendor/composer" />
+      <path value="$PROJECT_DIR$/sql/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/kint-php/kint" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/auth" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/base64" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/cookie" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/db" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/http" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/sql/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

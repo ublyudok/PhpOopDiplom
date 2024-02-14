@@ -1,0 +1,18 @@
+{
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "league/plates": "^3.5",
+        "aura/sqlquery": "3.0.0",
+        "php-di/php-di": "^7.0",
+        "laravel/serializable-closure": "^1.3",
+        "psr/container": "^2.0",
+        "kint-php/kint": "^5.1",
+        "delight-im/auth": "^8.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
